@@ -1,1 +1,1 @@
-# Big-Data-Creator-Community-Insights-Project
+# Atlanta Event Engagement Analytics Pipeline
