@@ -35,27 +35,31 @@ This project explores the types of events people attend in Atlanta by analyzing 
 
 ## Visualizations
 1. Visual of  fully completed Apache Airflow DAG
+<img width="600" alt="Image" src="https://github.com/user-attachments/assets/b15f829a-c122-485a-8203-57ee044fc418" />
+
 
 2. GCP Visual to show Question 1:
    
    -How many events come from Youtube vs. Eventbrite?
 <img width="600" alt="Image" src="https://github.com/user-attachments/assets/647cfb4c-27e2-4f44-ab7b-583213c693e8" />
 
+
 3. GCP Visual to show question 2:
    
    -What were the most popular event categories?
 <img width="600" alt="Image" src="https://github.com/user-attachments/assets/fc6db24d-98bf-4182-8818-c129f853660f" />
+
 
 4. GCP Visual to show Question 3:
 
    - What is the distribution of sources across each category?
 <img width="600" alt="Image" src="https://github.com/user-attachments/assets/32a77d80-3d8a-494c-9233-c98b8b155045" />
 
+
 5. Visual for the final Tableau dashboard showcasing all tableau pictures
 <img width="600" alt="Image" src="https://github.com/user-attachments/assets/4a81217d-606c-41cf-afab-bbd07b036282" />
 
-6. Visual for the Final Apache Airflow completed DAG
-<img width="600" alt="Image" src="https://github.com/user-attachments/assets/b15f829a-c122-485a-8203-57ee044fc418" />
+
 
 
 ### Query 1: Count of Events by Source
