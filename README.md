@@ -60,6 +60,7 @@ This project explores the types of events people attend in Atlanta by analyzing 
 <img width="600" alt="Image" src="https://github.com/user-attachments/assets/4a81217d-606c-41cf-afab-bbd07b036282" />
 
 
+## Queries
 
 
 ### Query 1: Count of Events by Source
