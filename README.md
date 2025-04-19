@@ -40,19 +40,19 @@ This project explores the types of events people attend in Atlanta by analyzing 
 
 2. GCP Visual to show Question 1:
    
-   -How many events come from Youtube vs. Eventbrite?
+   **How many events come from Youtube vs. Eventbrite?
 <img width="600" alt="Image" src="https://github.com/user-attachments/assets/647cfb4c-27e2-4f44-ab7b-583213c693e8" />
 
 
 3. GCP Visual to show question 2:
    
-   -What were the most popular event categories?
+   **What were the most popular event categories?
 <img width="600" alt="Image" src="https://github.com/user-attachments/assets/fc6db24d-98bf-4182-8818-c129f853660f" />
 
 
 4. GCP Visual to show Question 3:
 
-   - What is the distribution of sources across each category?
+   **What is the distribution of sources across each category?
 <img width="600" alt="Image" src="https://github.com/user-attachments/assets/32a77d80-3d8a-494c-9233-c98b8b155045" />
 
 
@@ -89,33 +89,33 @@ ORDER BY category
 <img width="600" alt="Image" src="https://github.com/user-attachments/assets/ec72e174-dbd5-4953-995e-24ab8c9b2c79" />
 
 ## Project Workflow
-- Day 1–3: Data Collection & Cleaning
+**Day 1–3: Data Collection & Cleaning
   Pulled YouTube data using API
 
   Manually curated Eventbrite dataset
 
   Cleaned and merged using a Python script
 
-- Day 4: Airflow Pipeline
+**Day 4: Airflow Pipeline
   Created Airflow DAG to automate CSV merging + cleaning
 
   Scheduled DAG to run daily
 
-- Day 5–6: GCP BigQuery Integration
+**Day 5–6: GCP BigQuery Integration
   Uploaded merged CSV to BigQuery
 
   Wrote SQL queries to explore event behavior
 
-- Day 7: Tableau Dashboard
+**Day 7: Tableau Dashboard
   Connected BigQuery to Tableau
 
   Built visualizations for final report
 
 
 ## Future Improvements
--Scrape real-time Eventbrite data with authenticated access
+**Scrape real-time Eventbrite data with authenticated access
 
--Classify events using NLP
+**Classify events using NLP
 
--Add interactive filters by neighborhood or time
+**Add interactive filters by neighborhood or time
 
