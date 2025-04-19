@@ -1,6 +1,6 @@
 # Atlanta Event Engagement Analytics Pipeline
 
-This project explores the types of events people attend in Atlanta by analyzing and cleaning event data from Eventbrite and YouTube. Using a modern data pipeline approach, I automated ETL processes and visualized key insights in both BigQuery and Tableau.
+This project explores the types of events people attend in Atlanta by analyzing and cleaning event data from Eventbrite and YouTube. Using a modern data pipeline approach, I automated ETL processes and visualized key insights in Apache Airflow, BigQuery and Tableau.
 
 ---
 
@@ -61,7 +61,6 @@ This project explores the types of events people attend in Atlanta by analyzing 
 
 
 ## Queries
-
 
 ### Query 1: Count of Events by Source
 ```sql
