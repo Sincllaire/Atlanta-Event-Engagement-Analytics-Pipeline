@@ -90,26 +90,26 @@ ORDER BY category
 
 ## Project Workflow
 - Day 1–3: Data Collection & Cleaning
-Pulled YouTube data using API
+  Pulled YouTube data using API
 
-Manually curated Eventbrite dataset
+  Manually curated Eventbrite dataset
 
-Cleaned and merged using a Python script
+  Cleaned and merged using a Python script
 
 - Day 4: Airflow Pipeline
-Created Airflow DAG to automate CSV merging + cleaning
+  Created Airflow DAG to automate CSV merging + cleaning
 
-Scheduled DAG to run daily
+  Scheduled DAG to run daily
 
 - Day 5–6: GCP BigQuery Integration
-Uploaded merged CSV to BigQuery
+  Uploaded merged CSV to BigQuery
 
-Wrote SQL queries to explore event behavior
+  Wrote SQL queries to explore event behavior
 
 - Day 7: Tableau Dashboard
-Connected BigQuery to Tableau
+  Connected BigQuery to Tableau
 
-Built visualizations for final report
+  Built visualizations for final report
 
 
 ## Future Improvements
