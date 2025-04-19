@@ -34,6 +34,12 @@ This project explores the types of events people attend in Atlanta by analyzing 
 ---
 
 ## Visualizations
+1. Visual of  fully completed Apache Airflow DAG
+
+2. GCP Visual to show Question 1: 
+   -How many events come from Youtube vs. Eventbrite?
+   
+
 
 
 
